@@ -1,0 +1,14 @@
+.inputbox {
+    border: 2px solid #dddddd;
+    padding: 5px;
+    margin-bottom: 8px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#button-submit {
+    border-style: solid;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 8px 20px;
+}
