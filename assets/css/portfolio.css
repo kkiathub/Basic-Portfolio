@@ -12,13 +12,11 @@
 .title {
     font-size: 22px;
     width: 260px;
-    background-color: #32b6af;
+    background-color: rgba(50, 182, 175, 0.65);
     color: #ffffff;
     position: absolute;
     bottom: 5%;
     padding: 15px 0px;
-    opacity: 0.8;
-
 }
 
 .pointer {
